@@ -123,6 +123,12 @@ module.exports = {
     // bellSoundURL: 'http://example.com/bell.mp3',
 
     // for advanced config flags please refer to https://hyper.is/#cfg
+
+    // verminal configure
+    verminal: {
+      fontFamily: '"Source Code Pro"',
+      fontSize: 16
+    }
   },
 
   // a list of plugins to fetch and install from npm
